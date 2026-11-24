@@ -1,4 +1,5 @@
 ##about
+
 My first GitHub projects
 
 ##objective
@@ -9,3 +10,10 @@ python
 Git
 GitHub
 VS Code
+
+## Learning progress
+
+Day1:Git installization
+Day2:staging and commits
+Day4: GitHubrepo and push
+Day5: Updating GitHub Projects
