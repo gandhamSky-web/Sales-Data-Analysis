@@ -21,3 +21,7 @@ Day5: Updating GitHub Projects
 ## My Goal
 
 Build a strong GitHub portfolio with practical Data Analytics projects.
+## Project Status
+
+Currently learning Git and GitHub.
+Building my first Data Analytics portfolio project.
