@@ -17,3 +17,7 @@ Day1:Git installization
 Day2:staging and commits
 Day4: GitHubrepo and push
 Day5: Updating GitHub Projects
+
+## My Goal
+
+Build a strong GitHub portfolio with practical Data Analytics projects.
